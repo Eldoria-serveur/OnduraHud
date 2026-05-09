@@ -1,0 +1,15 @@
+huds:
+  money:
+    initial_shift: 350
+    padding: 5
+    compact_numbers: true
+    elements:
+      - "<glyph:hud_money>"
+      - " "
+      - "<gold>%vault_eco_balance_fixed% $"
+    background:
+      left: "<glyph:hud_left>"
+      body: "<glyph:hud_body>"
+      right: "<glyph:hud_right>"
+
+  
