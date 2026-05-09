@@ -27,8 +27,11 @@ Plugin Minecraft Paper permettant d’afficher un HUD dynamique via BossBar avec
 ```bash
 mvn clean package
 ```
-Place the jar into:
+Placer le jar dans
 
 `/plugins`
 
-Restart server.
+Redémarer le serveur.
+
+## 🧾 Commands
+ - /ondurahud reload → reload config
