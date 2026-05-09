@@ -1,4 +1,6 @@
-Eldoria - Accord de Contribution et Propriété Intellectuelle Ce document définit les règles de collaboration pour tous les contributeurs (graphistes, modélisateurs, configurateurs) ayant accès aux ressources privées du projet Eldoria.
+# Accord de Contribution et Propriété Intellectuelle
+
+Ce document définit les règles de collaboration pour tous les contributeurs (graphistes, modélisateurs, configurateurs) ayant accès aux ressources privées du projet Eldoria.
 
 Acceptation des termes En soumettant du contenu (fichiers, codes, textures, modèles, configurations) sur ce repository, vous acceptez sans réserve les conditions listées ci-dessous.
 
