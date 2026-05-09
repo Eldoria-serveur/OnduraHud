@@ -26,3 +26,9 @@ Plugin Minecraft Paper permettant d’afficher un HUD dynamique via BossBar avec
 1. Build le plugin :
 ```bash
 mvn clean package
+```
+Place the jar into:
+
+`/plugins`
+
+Restart server.
