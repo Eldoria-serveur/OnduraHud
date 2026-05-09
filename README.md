@@ -35,3 +35,6 @@ Redémarer le serveur.
 
 ## 🧾 Commands
  - /ondurahud reload → reload config
+## ⚠️ Remarques
+ - Dépend de plugins externes
+ - Mise à jour du HUD toutes les 40 ticks
